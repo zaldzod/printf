@@ -73,3 +73,4 @@ if (f->hash == 1 && str[0] != '0')
 count += _putchar('0');
 count += _puts(str);
 return (count);
+}
